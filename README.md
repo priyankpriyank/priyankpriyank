@@ -89,6 +89,8 @@
 
 - 👯 I’m looking to collaborate on [my marketplace application.](https://github.com/priyankpriyank/Marketplace-CRUD-Web-Application) i really appreciate any imrovement or suggestion. Feel free to reach out to me.
 
+- 👯 I’m looking to discuss and collaborate on my 2D Realistic [8 ball pool game](https://github.com/priyankpriyank/Classic-8-Ball-Pool-Game). Slide into my inbox if you have anything instresting to enhance the game.
+
 - 👨‍💻 All of my projects are available at [https://priyank-vora.netlify.app/](https://priyank-vora.netlify.app/)
 
 - 💬 Ask me about **JAVA, JS, React..**
