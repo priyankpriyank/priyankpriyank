@@ -4,6 +4,11 @@
 <img align="right" height="150" src="https://user-images.githubusercontent.com/74038190/212907112-d360cd3f-bae2-42de-a41a-ca5622488e96.png"  />
 
 ###
+- 🔭 I’m currently focusing on **building up my network and am looking for an internship. Please reach out to me if you have leads..**
+
+- 🌱 I’m currently learning **Next.js, Kubernetes & MongoDB**
+
+
 
 <h3 align="left">Languages and Tools:</h3>
 <div align="left">
@@ -72,17 +77,7 @@
 
 ###
 
-<div align="left">
-  <a href="mailto:vorapriyankp@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/priyankpvora/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-  <a href="mailto:priyank-pravinbhai.vora@mohawkcollege.ca" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="microsoft-outlook logo"  />
-  </a>
-</div>
+
 
 ###
 
@@ -90,9 +85,7 @@
 
 ###
 
-- 🔭 I’m currently focusing on **building up my network and am looking for an internship. Please reach out to me if you have leads..**
 
-- 🌱 I’m currently learning **Next.js, Kubernetes & MongoDB**
 
 - 👯 I’m looking to collaborate on [my marketplace application.](https://github.com/priyankpriyank/Marketplace-CRUD-Web-Application) i really appreciate any imrovement or suggestion. Feel free to reach out to me.
 
@@ -107,6 +100,17 @@
 <a href="https://linkedin.com/in/priyankpvora" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="priyankpvora" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/priyankvora" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="priyankvora" height="30" width="40" /></a>
 </p>
+
+<div align="left">
+  <a href="mailto:vorapriyankp@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  </a>
+ 
+  <a href="mailto:priyank-pravinbhai.vora@mohawkcollege.ca" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="microsoft-outlook logo"  />
+  </a>
+</div>
+<br>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=priyankpriyank&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=priyankpriyank&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
